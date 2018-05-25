@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DStatApp", "3DStatApp\3DStatApp.csproj", "{C6AB92E5-0371-4167-9216-2961969BC4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6AB92E5-0371-4167-9216-2961969BC4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AB92E5-0371-4167-9216-2961969BC4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AB92E5-0371-4167-9216-2961969BC4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AB92E5-0371-4167-9216-2961969BC4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE46720-E637-4EA2-8718-9A5893576D10}
+	EndGlobalSection
+EndGlobal
